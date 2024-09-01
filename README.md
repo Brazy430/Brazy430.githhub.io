@@ -18,9 +18,9 @@ First we computed the addition of 2 bit binary numbers of our choice , A0,B0,A1 
 2.For the second half  adder the first XOR gate would perform the addition of A1 and B1 . The second XOR gate would add the sum of A1 and B1 from the first XOR gate along with the carry from the fist half adder  . The OR gate would finally combined the carry bits from the first half adder and the second half adder. 
 
 ### GROUP MEMBERS
-K.G.M    202201992
-M.A.R    202201074
-T.S      202201293
-M.B.R    202201173
-M.P.S    202201948
-L.N      2022019
+#### K.G.M    202201992
+#### M.A.R    202201074
+#### T.S      202201293
+#### M.B.R    202201173
+#### M.P.S    202201948
+#### L.N      202201934
