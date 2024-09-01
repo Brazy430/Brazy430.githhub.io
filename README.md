@@ -1,6 +1,7 @@
 # Digital Circuit 
 
- ### Objective                                                                                                             
+ ### Objective      
+ 
 
 ### WHAT THE CIRCIUT DOES
 The circuit takes two numbers with bits A0,A1,B0 and B1, and adds the numbers.This  design effectively  handles the sum of two 2-bit binary numbers while managing the carry bits between different stages of the addition process.
