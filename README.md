@@ -1,4 +1,5 @@
 # Digital Circuit 
+![Uploading image.png…]()
 
  ### Objective    
  To design simulate and document a digital circuit that implements the functionality of a two bit binary adder using basic digital logic gates.
